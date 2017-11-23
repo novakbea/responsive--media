@@ -1,2 +1,0 @@
-# responsive--media
-responsive media
